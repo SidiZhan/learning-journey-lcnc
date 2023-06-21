@@ -1,15 +1,9 @@
 # learning-journey-lcnc
-materials of sap learning journey - sap build low-code/no-code
+
+this is for the temporary sharing of learning materials of the sap learning journey: [Utilize SAP Build for Low-Code/No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/utilize-sap-build-for-low-code-no-code-applications-and-automations-for-citizen-developers).
+
+the official sharing will be sent out to your registration email box after all the sessions are completed.
 
 
-# Recordings
-- June 20, 2023
-
-Title:	Partner Certification Academy for Low-Code/No-Code Applications and Automations - Asia (1/3)
-
-Zoom Password: 	399513
-
-shared_screen	https://sap.zoom.us/rec/play/Ezhomw2FovRG3VNIIbbxi38fjMyU73qXwpbMpLdrAm_OjgvvRJRje4wKQtchxcpQhbDyET1ttYN8D9ng.U5f8zRQdpK5Bqm5c
-
-
-- June 22, 2023
+- slides in `Utilize SAP Build for Low-Code/No-Code Applications and Automations for Citizen Developers.pdf`
+- recording in `recording.txt`
