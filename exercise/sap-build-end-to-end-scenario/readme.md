@@ -1,0 +1,1 @@
+In the last session of Learning Journey Experiencing End-To-End SAP Build: https://learning.sap.com/learning-journeys/experiencing-end-to-end-sap-build/exercise-creating-the-end-to-end-szenario![image](https://github.com/user-attachments/assets/2e744e9a-a1a7-47fa-9c07-15e2c91aca61)
