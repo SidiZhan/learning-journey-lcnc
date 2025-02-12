@@ -1,1 +1,1 @@
-containing sample barcodes
+This folder contains tutorial guides and exported project for the exercises in learning journey Develop apps with SAP Build Apps using drag-and-drop simplicity https://learning.sap.com/learning-journeys/develop-apps-with-sap-build-apps-using-drag-and-drop-simplicity
